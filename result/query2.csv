@@ -1,0 +1,19 @@
+conference,sessionid,session_title,session_type,owner,participants,URL,level,session_location,starttime,duration,time_and_duration,kusto_affinity
+Build 2020,COM64,Focus Group: Azure Data Explorer,Focus Group,"Avner Aharoni, Uri Barash, Adi Eldar, 
+Gabi Lehner, 
+Alexander Sloutsky",,https://mybuild.microsoft.com/sessions/522fcb24-93fd-4279-9fe2-02f7474004ec,200.0,Online,2020-05-20 08:45:00+00:00,60.0,"Wednesday, May 20
+8:45 AM - 9:45 AM GMT",Focused
+Build 2020,COM65,Focus Group: Azure Data Explorer,Focus Group,"Avner Aharoni, Uri Barash, Adi Eldar, 
+Gabi Lehner, 
+Alexander Sloutsky",,https://mybuild.microsoft.com/sessions/11fe5416-6114-42b1-84e1-24a8b3d0e8f5,200.0,Online,2020-05-21 10:30:00+00:00,60.0,"Thursday, May 21
+10:30 AM - 11:30 AM GMT",Focused
+Build 2020,COM08,Ask the Team: Azure Data Explorer,Ask the Team,"Deepak Agrawal, Avner Aharoni, Uri Barash, Adi Eldar, Gabi Lehner, Manoj Raheja, Alexander Sloutsky",,https://mybuild.microsoft.com/sessions/4b722ae7-0ba4-4d04-9edd-1469e31169b2,200.0,Online,2020-05-21 05:30:00+00:00,60.0,"Thursday, May 21
+5:30 AM - 6:30 AM GMT",Focused
+Build 2020,COM137,Focus Group: Built-In Dashboard and Smart Auto Scaling Capabilities in Azure Data Explorer,Focus Group,"Gabi Lehner, MJ Sharma",,https://mybuild.microsoft.com/sessions/1b80799d-be1a-490f-bf7c-deb52ae24329,200.0,Online,2020-05-20 23:15:00+00:00,60.0,"Thursday, May 20
+11:15 PM - 00:15 AM GMT",Focused
+Ignite 2018,THR2404,Azure Data Explorer - Query billions of records in seconds!,Theater,Manoj Raheja,,https://azure.microsoft.com/en-us/resources/videos/ignite-2018-azure-data-explorer-%E2%80%93-query-billions-of-records-in-seconds/,200.0,,,20.0,,Focused
+Ignite 2018,THR3115,Azure Log Analytics: Deep dive into the Azure Kusto query language. ,Theater,Jean Francois Berenguer,,https://myignite.techcommunity.microsoft.com/sessions/66329,300.0,,,,,Focused
+Ignite 2018,KEY03,IT and developer success with Microsoft Azure,Keynote,Scott Guthrie,Evgeny Ternovsky,https://mediastream.microsoft.com/events/2018/1809/Ignite/player/tracks/track2.html?start=7815,200.0,,2018-09-24 10:45:00+00:00,90.0,"Mon, Sep 24, 10:45-12:15 pm",Mention
+Ignite 2018,GS005,"Making AI real with SQL Server, Azure databases and Azure big data analytics services",General Session,Rohan Kumar,Evgeny Ternovsky,https://mediastream.microsoft.com/events/2018/1809/Ignite/player/tracks/track5.html?start=9880,200.0,OCCC W415 CD (Valencia Ballroom),2018-09-24 14:15:00+00:00,75.0,"Mon, Sep 24, 2:15-3:30 pm",Mention
+PASS Summit,,SQL Server and Azure Data Services: Harness the future with the ultimate hybrid platform for data and AI,Keynote,Rohan Kumar,Ariel Pisetzky,https://www.pass.org/summit/2018/Learn/Keynotes.aspx,,"Microsoft Keynote Room, 4A",2018-11-07 08:15:00+00:00,90.0,"Wed, Nov 7, 8:15-9:45 am",Mention
+Intelligent Cloud 2019,,Keynote by Rohan Kumar,Keynote,Rohan Kumar,Henning Rauch ,,,,2019-04-09 09:00:00+00:00,90.0,"Tue, Apr 9, 9:00-10:30 AM",Mention
